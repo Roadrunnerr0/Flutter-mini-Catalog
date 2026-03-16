@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "HomePod Mini",
+    "price": 99.99,
+    "category": "Hoparlör",
+    "imageUrl": "https://images.pexels.com/photos/9941976/pexels-photo-9941976.jpeg",
+    "description": "Kompakt boyutlu, akıllı ev entegrasyonuna sahip şık akıllı hoparlör."
+  },
+  {
+    "id": 2,
+    "name": "Kablosuz Kulaklık Pro",
+    "price": 149.90,
+    "category": "Kulaklık",
+    "imageUrl": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg",
+    "description": "Aktif gürültü engelleme ve uzun pil ömrü ile konforlu kablosuz kulaklık."
+  },
+  {
+    "id": 3,
+    "name": "Akıllı Saat Fit",
+    "price": 189.00,
+    "category": "Giyilebilir",
+    "imageUrl": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg",
+    "description": "Spor takibi ve sağlık ölçümleri için tasarlanmış modern akıllı saat."
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Hoparlör Go",
+    "price": 59.90,
+    "category": "Hoparlör",
+    "imageUrl": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg",
+    "description": "Taşınabilir, suya dayanıklı gövdeye sahip bluetooth hoparlör."
+  },
+  {
+    "id": 5,
+    "name": "Mekanik Klavye 60%",
+    "price": 129.50,
+    "category": "Aksesuar",
+    "imageUrl": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg",
+    "description": "Kompakt tasarımlı, RGB aydınlatmalı mekanik klavye."
+  },
+  {
+    "id": 6,
+    "name": "4K IPS Monitör",
+    "price": 399.00,
+    "category": "Monitör",
+    "imageUrl": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+    "description": "Tasarım ve içerik üretimi için yüksek çözünürlüklü 4K IPS monitör."
+  }
+]
